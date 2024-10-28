@@ -1,0 +1,3 @@
+[submodule "communities-microservice"]
+	path = communities-microservice
+	url = /communities-microservice
